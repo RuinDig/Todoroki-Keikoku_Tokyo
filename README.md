@@ -1,5 +1,5 @@
 # Todoroki-Keikoku_Tokyo
-東京都世田谷区の等々力渓谷。【撮影時期】2016年1月
+東京都世田谷区の等々力渓谷。撮影時期：2016年1月
 
 ![Todoroki-Keikoku_Tokyo_01](https://user-images.githubusercontent.com/20723919/120927337-9e5ef600-c71b-11eb-9daf-ab5d11b6b9f2.jpg)
 
